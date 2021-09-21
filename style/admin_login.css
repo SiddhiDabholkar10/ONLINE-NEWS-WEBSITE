@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+* {
+  font-family: "Rubik", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  transition: all 0.2s linear;
+}
+body {
+  background: url(../images/admin_bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+html {
+  /* font-size: 62.5%; */
+  overflow-x: hidden;
+  scroll-padding-top: 6rem;
+  scroll-behavior: smooth;
+}
+
+
+.container {
+  /* min-height: 100vh; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  position: relative;
+  z-index: 1;
+  top: 10rem;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 2rem;
+  box-shadow: 5px 10px 10px 5px rgb(0, 255, 255,0.1) ;
+}
+
+.container form {
+  width: 80%;
+  padding: 1rem 0;
+  color: #00ffff;
+}
+.container form h3 {
+  text-align: center;
+}
+
+.btn {
+  margin: 0.5rem 0;
+  background-color: #00ffff;
+  color: black;
+}
+
+.btn:hover {
+  background-color: pink;
+  color:black;
+  border: 2.5px solid #00ffff;
+}
+
+
+
