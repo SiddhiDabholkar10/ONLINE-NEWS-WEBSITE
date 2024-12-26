@@ -5,17 +5,6 @@ To create a comprehensive `README.md` file for your repository, here is a sugges
 
 An online news portal, with categorized news articles for the users; with admin and client module.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 This repository contains the source code for an online news website. The website provides categorized news articles for users and includes separate modules for admin and clients.
