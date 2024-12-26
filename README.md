@@ -1,6 +1,3 @@
-To create a comprehensive `README.md` file for your repository, here is a suggested template:
-
-```markdown
 # ONLINE NEWS WEBSITE
 
 An online news portal, with categorized news articles for the users; with admin and client module.
@@ -78,6 +75,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or suggestions, feel free to contact me at siddhi.dabholkar@example.com.
-```
-
-You can customize the sections based on your specific project needs.
